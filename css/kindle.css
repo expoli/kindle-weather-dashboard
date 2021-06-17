@@ -66,6 +66,14 @@ html.night {
     left: 3.3%;
 }
 
+#nowTime {
+    font-size: 50px;
+    font-size: 7rem;
+    position: absolute;
+    bottom: 47%;
+    left: 4.2%;
+}
+
 #description {
     position: absolute;
     right: 3.3%;
