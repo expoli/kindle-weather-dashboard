@@ -1,8 +1,10 @@
 var api_locParams = "lat=50.1243111&lon=14.4901953";
 // or api_locParams = "q=Paris";
 var api_appId = "YOUR_API_KEY";
-var api_lang = "sk"
+var api_lang = "zh";
 var api_units = "metric"; 
+// if you don't set this variable, the corresponding weather request will not succeed
+var city = "beijing";
 
 var api_params = null;
 
